@@ -1,6 +1,6 @@
 {
   "name": "dnd-sortable",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sorting by drag and drop item ",
   "main": "src/index.js",
   "scripts": {
@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/abdulhanna/Sortable#readme",
   "peerDependencies": {
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "dependencies": {
     "@babel/cli": "^7.23.4",
